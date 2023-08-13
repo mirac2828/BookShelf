@@ -1,0 +1,41 @@
+{
+  "books": [
+    {
+      "id": "1690296718630",
+      "name": "Yeşil Peri Gecesi",
+      "publisher": "iletişim",
+      "price": "240",
+      "categoryId": "1690296674873",
+      "category": "Makale"
+    },
+    {
+      "id": "1691934041679",
+      "name": "Kerem",
+      "publisher": "defne",
+      "price": "123",
+      "categoryId": "1690296667366"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Biyografi",
+      "id": "1690296653432"
+    },
+    {
+      "name": "Roman",
+      "id": "1690296660993"
+    },
+    {
+      "name": "Makale",
+      "id": "1690296667366"
+    },
+    {
+      "name": "Bilim kurgu",
+      "id": "1690296674873"
+    },
+    {
+      "name": "sinema",
+      "id": "1690296713013"
+    }
+  ]
+}

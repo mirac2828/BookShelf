@@ -1,0 +1,4 @@
+1-axios u kur
+2-react-router dom
+3-redux ve react-redux
+4-db.json json server
